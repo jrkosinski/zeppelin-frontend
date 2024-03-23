@@ -1,3 +1,7 @@
+# <img src="logos/zeppelin.png" alt="OpenZeppelin" height="60px">   <img src="logos/zeppelinlogo.png" alt="OpenZeppelin" height="60px"> 
+
+# Zeppelin Finance
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
